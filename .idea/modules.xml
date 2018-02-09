@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/USBKit.iml" filepath="$PROJECT_DIR$/USBKit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafs/javafs.iml" filepath="$PROJECT_DIR$/javafs/javafs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libaums/libaums.iml" filepath="$PROJECT_DIR$/libaums/libaums.iml" />
     </modules>
   </component>
 </project>
